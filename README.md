@@ -44,6 +44,6 @@
 </div>  
 
 -----
-Credits: [RahulMahesh62](https://github.com/MarRazane)
+Credits: [Razane Marref](https://github.com/MarRazane)
 
 Last Edited on: 23/06/2022
