@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Marref Razane! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, It's Marref Razane! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center" ><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="40%"/></p>
 <p align="center">I'm a AI Student.<br/>I specialize in MAchine Learning and Deep Learning.<br> I also love writing Tech-blogs, .<br></p><br/>
 
