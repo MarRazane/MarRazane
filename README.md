@@ -5,9 +5,9 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working my PFE.
-- 🌱 I’m currently learning MLops.
-- 👯 I’m looking to collaborate on Tensorflow projects.
+- 🔭 I'm searching for an internship or position in the Artificial intelligence field.
+- 🌱 I’m currently learning AI generator.
+- 👯 I’m looking to collaborate on AI projects.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
