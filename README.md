@@ -1,13 +1,13 @@
 <h1><p align="center">Hello, It's Marref Razane! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center" ><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="40%"/></p>
-<p align="center">I'm a AI Engineer.<br/>I specialize in Machine Learning and Deep Learning.<br> I also love writing Tech-blogs, .<br></p><br/>
+<p align="center">I'm a Machine Learning .<br/>I specialize in Machine Learning and NLPs.<br> I also love writing Tech-blogs, .<br></p><br/>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm searching for an internship or position in the Artificial intelligence field.
-- 🌱 I’m currently learning AI generator.
-- 👯 I’m looking to collaborate on AI projects.
+- 🔭 I'm working in Machine Learning at Teddra.
+- 🌱 Data scientist instructor at GOMYCODE.
+- 👯 writing tech blogs.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
