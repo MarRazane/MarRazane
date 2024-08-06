@@ -6,7 +6,6 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working in Machine Learning at Teddra.
-- 🌱 Data scientist instructor at GOMYCODE.
 - 👯 writing tech blogs.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
